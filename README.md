@@ -6,4 +6,6 @@ This system eliminates the drawbacks of manual irrigation by continuously monito
 This Smart Irrigation System is ideal for applications such as home gardens, greenhouses, nurseries, and small-scale farms, where automation can significantly improve efficiency while keeping costs low. Additionally, the integration of solar-powered components makes the system energy-efficient and environmentally friendly.
 
 ## Project Report
-* The project report can be viewed [here]( https://docs.google.com/document/d/179usQiyt-5Bl4zqhzthTQt6ghEoV2gK4L74VYZOnHuk/edit?usp=sharing/).
+The project report can be viewed [here]( https://docs.google.com/document/d/179usQiyt-5Bl4zqhzthTQt6ghEoV2gK4L74VYZOnHuk/edit?usp=sharing/).
+
+### Working model 
