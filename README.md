@@ -9,3 +9,4 @@ This Smart Irrigation System is ideal for applications such as home gardens, gre
 The project report can be viewed [here]( https://docs.google.com/document/d/179usQiyt-5Bl4zqhzthTQt6ghEoV2gK4L74VYZOnHuk/edit?usp=sharing/).
 
 ### Working model 
+![model](https://github.com/Tushar3497/Plant-irrigation-System/blob/08460045f1090f69b5a5b2303697c12f5e720c82/iot%20model.jpg)
